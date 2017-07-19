@@ -1,10 +1,10 @@
 <snipet>
 
-# Lineas Electricas
+# Lineas Eléctricas
 
 ## Contenido
 1. **Libro Excel**: cálculo del arbol de cargas
-2. **MATLAB Script**: Ecuación de cambio de condiciones. Simulaciones de escenarios.
+2. **MATLAB Script**: ecuación de cambio de condiciones. Simulación para distintos escenarios.
 3. **TRABAJO PDF**.
 
 </snipet>
